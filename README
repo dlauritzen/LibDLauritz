@@ -1,0 +1,34 @@
+README for LibDLauritz v0.1a
+
+Introduction
+------------
+
+LibDLauritz is a collection of code I've written over the years. It includes many
+sub-projects and classes useful for simple programs. It is intended for personal or 
+educational use since it is far too simple for production-level programming.
+
+Contents
+------------
+
+This library includes:
+
+ * dllog - A logging framework
+ * dltest - An automated testing framework
+
+See the README files for each sub-project (titled like README_dllog) for details
+on purpose and use.
+
+Authors
+-------
+
+ * Dallin Lauritzen (dallin.lauritzen@gmail.com)
+
+License
+-------
+
+This library is licensed under the GNU General Public License (GPL). It is intended for use
+by individuals for personal and educational projects.
+
+See LICENSE for more details.
+
+Copyright 2011, Dallin Lauritzen
