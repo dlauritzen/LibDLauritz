@@ -66,6 +66,14 @@ clean:
 	@-$(RM) $(TEST_EXE)
 	@-$(RM) $(TEST_OBJ)/*
 
+commit:
+	git add *
+	git commit
+	git push
+
+update:
+	git pull
+
 info:
 	@echo "Sources: $(SOURCES)"
 	@echo "OS: $(OS)"
